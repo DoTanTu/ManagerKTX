@@ -12,6 +12,7 @@ public class testClass {
     public static void main(String[] args) {
         System.out.println("Hello");
         System.out.println("Xin Chao");
+        System.out.println("Chao lan 2");
     }
     
 }
