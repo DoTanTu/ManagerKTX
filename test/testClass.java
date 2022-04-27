@@ -14,7 +14,11 @@ public class testClass {
         System.out.println("Xin Chao");
         System.out.println("Chao lan 2");
         System.out.println("Trần Anh Tuấn Chào 1");
+<<<<<<< HEAD
         System.out.println("Trần Anh Tuấn Chào Lần 2");
+=======
+        System.out.println("Le Hoang Anh Tuan 1");
+>>>>>>> 9dd82bd133bb494f148c8119ec4062059e11564b
 
     }
     
