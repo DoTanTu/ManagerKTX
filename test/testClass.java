@@ -13,6 +13,8 @@ public class testClass {
         System.out.println("Hello");
         System.out.println("Xin Chao");
         System.out.println("Chao lan 2");
+        System.out.println("Trần Anh Tuấn Chào 1");
+
     }
     
 }
