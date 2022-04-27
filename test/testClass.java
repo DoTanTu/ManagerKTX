@@ -15,7 +15,8 @@ public class testClass {
         System.out.println("Chao lan 2");
         System.out.println("Trần Anh Tuấn Chào 1");
         System.out.println("Trần Anh Tuấn Chào Lần 2");
-
+System.out.println("Trần Anh Tuấn Chào Lần 3");
+System.out.println("Trần Anh Tuấn Chào Lần 4");
     }
     
 }
